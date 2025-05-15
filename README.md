@@ -15,4 +15,11 @@ Below is so photos for you to see I hope this helps :)
 -Orion 
 
 
+![Screenshot 1](https://github.com/python-astronaut/Hotel-Maintence-Logger/blob/f74bcb25c6c5fb628eb6d2d62c444ba92659a7e3/Maintenence-Tracker_1.png).
+
+![Screenshot 2](https://github.com/python-astronaut/Hotel-Maintence-Logger/blob/f74bcb25c6c5fb628eb6d2d62c444ba92659a7e3/Maintenence-Tracker_2.png).
+
+![Screenshot 3 ](https://github.com/python-astronaut/Hotel-Maintence-Logger/blob/f74bcb25c6c5fb628eb6d2d62c444ba92659a7e3/Maintenence-Tracker_3.png). 
+
+
 
